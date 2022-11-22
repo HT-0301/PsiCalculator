@@ -1,9 +1,9 @@
 # PsiCalculator
-a, b, c :
-lattice parameters of crystal
-alpha, beta, gamma :
-lattice angle of crystal
-h, k, l :
-基準となる面の指数を入力
-h', k', l' :
+a, b, c :<br>
+lattice parameters of crystal<br>
+alpha, beta, gamma :<br>
+lattice angle of crystal<br>
+h, k, l :<br>
+基準となる面の指数を入力<br>
+h', k', l' :<br>
 基準となる面との角度を知りたい面の指数を入力
